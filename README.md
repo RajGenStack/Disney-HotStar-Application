@@ -9,6 +9,18 @@ A static streaming-site interface (JSP, CSS and JavaScript) packaged as a Maven 
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
+<p>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/RajGenStack/Disney-HotStar-Application?style=flat-square&labelColor=0d1117&color=ff6b35">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/RajGenStack/Disney-HotStar-Application?style=flat-square&labelColor=0d1117&color=8b949e">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RajGenStack/Disney-HotStar-Application?style=flat-square&labelColor=0d1117&color=8b949e">
+</p>
+
+## What this demonstrates
+
+- Treating a Maven build and its unit tests as the unit of work a pipeline repeats reliably
+- Static analysis of Java with SonarQube as part of the build
+- Deploying a WAR artifact to Apache Tomcat
+
 ## Repository structure
 
 ```text
